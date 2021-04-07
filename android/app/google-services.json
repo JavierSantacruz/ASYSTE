@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "463780171965",
+    "project_id": "asyste-1a969",
+    "storage_bucket": "asyste-1a969.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463780171965:android:6062b1ff260dda69f1a7d4",
+        "android_client_info": {
+          "package_name": "com.example.proyecto_movil"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "463780171965-i1965qkqqveu2pg5sqok73fdtqg8a86m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqy4xwyLJVgmWR8Cx7myfIRIH5uYXrVqY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "463780171965-i1965qkqqveu2pg5sqok73fdtqg8a86m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
